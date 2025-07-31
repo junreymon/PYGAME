@@ -12,15 +12,7 @@ Un divertido juego arcade creado con **Pygame**, donde controlas a un mono que d
 - Sistema de puntaje.
 - Animaciones y sonidos básicos.
 
----
 
-## 📸 Capturas de Pantalla
-
-> Agrega aquí capturas de pantalla del juego en ejecución  
-> Puedes usar Markdown:  
-> `![Gameplay](ruta/a/tu/imagen.png)`
-
----
 
 ## 🧰 Tecnologías Usadas
 
